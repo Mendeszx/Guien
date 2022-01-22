@@ -1,0 +1,48 @@
+body{
+    
+    background-color: #212529;
+    
+}
+h1{
+    
+    color: white;
+}
+a{
+    
+    color: white;
+}
+a{  
+    position: relative;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: #8C50FF;
+}
+a:active{
+    color: white;
+    
+}
+.dev{
+    color: #8C50FF;
+}
+#divContent{
+    overflow: auto; 
+   }
+::-webkit-scrollbar{
+    background-color:  #1d1d1d;
+    width: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+::-webkit-scrollbar-thumb{
+    background: #5b5b5b;
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #8C50FF;
+}
+#imagem{
+    border-radius: 10px;
+}
+  
